@@ -1,0 +1,14 @@
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\bin\Debug\JakasAplikacja.exe.config
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\bin\Debug\JakasAplikacja.exe
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\bin\Debug\JakasAplikacja.pdb
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\App.g.cs
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja_MarkupCompile.cache
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja_MarkupCompile.lref
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\MainWindow.baml
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja.g.resources
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja.Properties.Resources.resources
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja.exe
+C:\Users\Piotrek\Documents\programy\GitHubTestowy\JakasAplikacja\JakasAplikacja\obj\Debug\JakasAplikacja.pdb

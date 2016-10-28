@@ -23,7 +23,7 @@ namespace JakasAplikacja
         public MainWindow()
         {
             InitializeComponent();
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 12; i++)
             {
                 listBox1.Items.Add("Element nr: " + i);
             }
